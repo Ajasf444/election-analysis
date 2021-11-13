@@ -34,7 +34,7 @@ The analysis of the election show that:
 
 These results are also visible in the image of the output file below.
 
-![results output](\Resources\election_analysis.png)
+![results output](/Resources/election_analysis.png)
 ## Challenge Overview
 The purpose of this election audit is to follow up the analysis done for this congressional election with analysis based on the counties involved.
 This information could be leveraged in future campaigns to allow candidates to focus their messages in certain counties.
